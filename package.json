@@ -1,0 +1,14 @@
+{
+  "name": "messenger-in-terminal",
+  "version": "0.0.1",
+  "description": "messenger in terminal",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
